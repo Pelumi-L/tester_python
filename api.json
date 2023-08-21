@@ -1,0 +1,17 @@
+[
+    {
+    "name":"joshua",
+    "age":"27yr",
+    "school":"cyclobold",
+    "gender":"male",
+    "category":"fullstack web dev and data science"
+    },
+
+    {
+    "name":"ire",
+    "age":"17yr",
+    "school":"cyclobold",
+    "gender":"male",
+    "category":"fullstack web dev and data science"
+    }
+]

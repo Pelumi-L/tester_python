@@ -20,17 +20,16 @@
 # users[password] = password
 # users[age] = age
 # users['occupation'] = occupation
-def storeData(username, password, age, occupation):
-    users = {
-        'username': username,
-        'password': password,
-        'age': age,
-        'occupation': occupation
-    }
-    print(users)
-username = input('enter your username: ')
-password = input('enter password: ')
-age = input('enter your age: ')
-occupation = input ('what is your occupation: ')
-users = storeData(username, password, age, occupation)
-
+# def storeData(username, password, age, occupation):
+#     users = {
+#         'username': username,
+#         'password': password,
+#         'age: age,
+#         'occupation': occupation
+#     }
+#     print(users)
+# username = input('enter your username: ')
+# password = input('enter password: ')
+# age = input('enter your age: ')
+# occupation = input ('what is your occupation: ')
+# users = storeData(username, password, age, occupation)
