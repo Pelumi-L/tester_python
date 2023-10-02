@@ -5,7 +5,7 @@
 # data = soup.prettify()
 # divs = soup.find_all('div')
 # for div in divs:
-#    print(div.txt)
+#    print(div.text)
 #do a .src
 # images = soup.find_all('img')
 # for image in images:\
